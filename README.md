@@ -13,7 +13,7 @@ Quick note: the notebook uses synthetic demo data that mirrors real hospital rec
 
 Unpredictable patient length of stay (LOS) is one of the biggest operational challenges in hospital management. It leads to bed shortages, staffing mismatches, and inflated cost-per-stay.
 
-This project builds a **production-ready XGBoost regression model** that predicts a patient's LOS in days **at the point of admission** — before the stay begins — using pre-admission clinical and operational features. The model is deployed across **5 hospital branches** (UAE & KSA) and extended into a **30-day forward forecast** to support bed planning and staffing decisions.
+This project builds a **production-ready XGBoost regression model** that predicts a patient's LOS in days **at the point of admission** — before the stay begins — using pre-admission clinical and operational features. The model is deployed across **5 hospital branches**  and extended into a **30-day forward forecast** to support bed planning and staffing decisions.
 
 ---
 
