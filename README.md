@@ -32,10 +32,10 @@ This project builds a **production-ready XGBoost regression model** that predict
 
 | Metric | Value | Interpretation |
 |---|---|---|
-| **R²** | 0.83 | Model explains 83% of LOS variance |
-| **MAE** | ~0.9 days | Average prediction error under 1 day |
-| **RMSE** | ~1.2 days | Large errors are rare |
-| **MAPE** | ~15% | Acceptable for operational planning |
+| **R²** | 0.86 | Model explains 83% of LOS variance |
+| **MAE** | ~0.6 days | Average prediction error under 1 day |
+| **RMSE** | ~0.8 days | Large errors are rare |
+| **MAPE** | ~9.2% | Acceptable for operational planning |
 
 Validated via **5-fold cross-validation** on the training set before final evaluation on a held-out 20% test set.
 
@@ -162,7 +162,7 @@ Run all cells top to bottom. The notebook is self-contained — synthetic data i
 ## 👤 Author
 
 **Shady El Masry**
-Data Analyst → Data Scientist
+ Data Scientist
 [LinkedIn](https://linkedin.com/in/shady-elmasry1999) · [GitHub](https://github.com/shady-elmasry1999)
 
 ---
