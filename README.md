@@ -151,8 +151,6 @@ Run all cells top to bottom. The notebook is self-contained — synthetic data i
 
 ## 🔮 Next Steps (Production Roadmap)
 
-- [ ] Replace synthetic data with live SQL query against Topmed's Corus Activity schema
-- [ ] Add `GridSearchCV` hyperparameter tuning over XGBoost parameters
 - [ ] Benchmark against Random Forest and LightGBM
 - [ ] Automate weekly retraining via Airflow DAG or scheduled Python script
 - [ ] Export predictions to Power BI dataset for dashboard integration
@@ -163,7 +161,7 @@ Run all cells top to bottom. The notebook is self-contained — synthetic data i
 ## 👤 Author
 
 **Shady El Masry**
-Data Analyst → Data Scientist | Topmed Healthcare Group
+Data Analyst → Data Scientist
 [LinkedIn](https://linkedin.com/in/shady-elmasry1999) · [GitHub](https://github.com/shady-elmasry1999)
 
 ---
