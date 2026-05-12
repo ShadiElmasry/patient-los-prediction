@@ -32,7 +32,7 @@ This project builds a **production-ready XGBoost regression model** that predict
 
 | Metric | Value | Interpretation |
 |---|---|---|
-| **R²** | 0.86 | Model explains 83% of LOS variance |
+| **R²** | 0.86 | Model explains 86% of LOS variance |
 | **MAE** | ~0.6 days | Average prediction error under 1 day |
 | **RMSE** | ~0.8 days | Large errors are rare |
 | **MAPE** | ~9.2% | Acceptable for operational planning |
