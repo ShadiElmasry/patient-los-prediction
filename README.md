@@ -1,5 +1,5 @@
 # 🏥 Patient Length of Stay (LOS) Prediction
-### End-to-End ML Regression Pipeline | Topmed Healthcare Group · UAE & KSA
+### End-to-End ML Regression Pipeline |  Healthcare Group
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-orange?logo=scikit-learn&logoColor=white)
