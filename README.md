@@ -1,5 +1,6 @@
 # 🏥 Patient Length of Stay (LOS) Prediction
 ### End-to-End ML Regression Pipeline |  Healthcare Group
+Quick note: the notebook uses synthetic demo data that mirrors real hospital records — not actual patient data. Built this way intentionally to keep it shareable while preserving the full pipeline structure.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-orange?logo=scikit-learn&logoColor=white)
