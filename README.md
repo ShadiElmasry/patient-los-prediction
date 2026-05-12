@@ -138,7 +138,7 @@ Run all cells top to bottom. The notebook is self-contained — synthetic data i
 | # | Section | What it covers |
 |---|---|---|
 | 1 | Setup & Imports | Libraries and configuration |
-| 2 | Synthetic Data Generation | 20,000 realistic patient records mirroring Topmed's HIS schema |
+| 2 | Synthetic Data Generation | 5,000,000 realistic patient records mirroring Topmed's HIS schema |
 | 3 | Exploratory Data Analysis | LOS distributions, feature relationships, branch comparisons |
 | 4 | Preprocessing Pipeline | Imputation, scaling, encoding — fitted only on training data |
 | 5 | Model Training & Cross-Validation | XGBoost inside sklearn Pipeline, 5-fold CV |
